@@ -13,4 +13,4 @@ This is the second project of the Software Engineering program at TripleTen. It 
 
 ## Plan on improving the project
 
-Add your ideas here :)
+One way i would try to improve this projects is to make a section where people could orddr through the website. This could make the process of ordering, faster. Another way i would try to improve the project is to make the webpage as little more decorative.
