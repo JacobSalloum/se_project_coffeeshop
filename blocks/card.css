@@ -28,6 +28,10 @@
   color: #000;
 }
 
+.card__list-item:last-child {
+  margin: 0;
+}
+
 .card__list-divider {
   flex-grow: 1;
   border-bottom: 1px solid black;

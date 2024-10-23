@@ -10,6 +10,7 @@
   box-sizing: border-box;
   position: relative;
   background-size: cover;
+  z-index: 1;
 }
 
 .header__image {
@@ -18,6 +19,7 @@
   top: 124px;
   width: 646px;
   height: 568px;
+  z-index: -1;
 }
 
 .header__title {

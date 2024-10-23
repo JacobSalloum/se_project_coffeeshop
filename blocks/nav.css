@@ -16,6 +16,8 @@
 }
 
 .nav__link {
+  font-weight: 500;
+  color: #000;
   text-decoration: none;
   transition: opacity 0.5s;
 }
